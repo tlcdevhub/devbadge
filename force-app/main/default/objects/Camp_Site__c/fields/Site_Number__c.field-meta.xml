@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Site_Number__c</fullName>
+    <externalId>false</externalId>
+    <label>Site Number</label>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Site 1</fullName>
+                <default>false</default>
+                <label>Site 1</label>
+            </value>
+            <value>
+                <fullName>Site 2</fullName>
+                <default>false</default>
+                <label>Site 2</label>
+            </value>
+            <value>
+                <fullName>Site 3</fullName>
+                <default>false</default>
+                <label>Site 3</label>
+            </value>
+            <value>
+                <fullName>Site 4</fullName>
+                <default>false</default>
+                <label>Site 4</label>
+            </value>
+            <value>
+                <fullName>Site 5</fullName>
+                <default>false</default>
+                <label>Site 5</label>
+            </value>
+            <value>
+                <fullName>Site 6</fullName>
+                <default>false</default>
+                <label>Site 6</label>
+            </value>
+            <value>
+                <fullName>Site 7</fullName>
+                <default>false</default>
+                <label>Site 7</label>
+            </value>
+            <value>
+                <fullName>Site 8</fullName>
+                <default>false</default>
+                <label>Site 8</label>
+            </value>
+            <value>
+                <fullName>Site 9</fullName>
+                <default>false</default>
+                <label>Site 9</label>
+            </value>
+            <value>
+                <fullName>Site 10</fullName>
+                <default>false</default>
+                <label>Site 10</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>
